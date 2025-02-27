@@ -5,27 +5,27 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J75GmWGU1NDbvXC4cunR-1" value="Mackie MainStream" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="450" width="150" height="60" as="geometry" />
+          <mxGeometry x="100" y="585" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J75GmWGU1NDbvXC4cunR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="J75GmWGU1NDbvXC4cunR-2" target="J75GmWGU1NDbvXC4cunR-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J75GmWGU1NDbvXC4cunR-2" value="Mic / XLR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="585" width="80" height="60" as="geometry" />
+          <mxGeometry x="40" y="720" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J75GmWGU1NDbvXC4cunR-7" value="HDMI Out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="137.5" y="585" width="75" height="60" as="geometry" />
+          <mxGeometry x="137.5" y="720" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J75GmWGU1NDbvXC4cunR-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="J75GmWGU1NDbvXC4cunR-7" target="J75GmWGU1NDbvXC4cunR-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="610" as="sourcePoint" />
-            <mxPoint x="200" y="511" as="targetPoint" />
+            <mxPoint x="390" y="745" as="sourcePoint" />
+            <mxPoint x="200" y="646" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J75GmWGU1NDbvXC4cunR-9" value="HDMI Selecter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="330" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J75GmWGU1NDbvXC4cunR-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="J75GmWGU1NDbvXC4cunR-9">
+        <mxCell id="J75GmWGU1NDbvXC4cunR-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="J75GmWGU1NDbvXC4cunR-22" target="J75GmWGU1NDbvXC4cunR-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="450" as="sourcePoint" />
             <mxPoint x="204" y="523" as="targetPoint" />
@@ -52,16 +52,6 @@
             <mxPoint x="440" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J75GmWGU1NDbvXC4cunR-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J75GmWGU1NDbvXC4cunR-1" target="J75GmWGU1NDbvXC4cunR-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="610" as="sourcePoint" />
-            <mxPoint x="440" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="213" y="550" />
-              <mxPoint x="348" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="J75GmWGU1NDbvXC4cunR-18" value="LCD Monitor 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="470" width="150" height="60" as="geometry" />
         </mxCell>
@@ -75,15 +65,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J75GmWGU1NDbvXC4cunR-22" value="Atem Mini Pro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="710" width="150" height="60" as="geometry" />
+          <mxGeometry x="100" y="480" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J75GmWGU1NDbvXC4cunR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="J75GmWGU1NDbvXC4cunR-23" target="J75GmWGU1NDbvXC4cunR-22">
+        <mxCell id="J75GmWGU1NDbvXC4cunR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.198;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J75GmWGU1NDbvXC4cunR-23" target="J75GmWGU1NDbvXC4cunR-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J75GmWGU1NDbvXC4cunR-23" value="HDMI Out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="830" width="75" height="60" as="geometry" />
+          <mxGeometry x="50" y="360" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J75GmWGU1NDbvXC4cunR-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="J75GmWGU1NDbvXC4cunR-22" target="J75GmWGU1NDbvXC4cunR-14">
+        <mxCell id="J75GmWGU1NDbvXC4cunR-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="J75GmWGU1NDbvXC4cunR-22" target="J75GmWGU1NDbvXC4cunR-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J75GmWGU1NDbvXC4cunR-30" value="USB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J75GmWGU1NDbvXC4cunR-31" value="USB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J75GmWGU1NDbvXC4cunR-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J75GmWGU1NDbvXC4cunR-1" target="J75GmWGU1NDbvXC4cunR-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="710" as="sourcePoint" />
             <mxPoint x="440" y="660" as="targetPoint" />
