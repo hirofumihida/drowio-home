@@ -36,14 +36,8 @@
         <mxCell id="J75GmWGU1NDbvXC4cunR-12" value="LCD Monitor 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="400" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J75GmWGU1NDbvXC4cunR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.2;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J75GmWGU1NDbvXC4cunR-14" target="J75GmWGU1NDbvXC4cunR-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="490" y="585" />
-              <mxPoint x="490" y="560" />
-              <mxPoint x="580" y="560" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="J75GmWGU1NDbvXC4cunR-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J75GmWGU1NDbvXC4cunR-14" target="J75GmWGU1NDbvXC4cunR-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J75GmWGU1NDbvXC4cunR-14" value="Main PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="585" width="150" height="60" as="geometry" />
@@ -115,35 +109,17 @@
             <mxPoint x="200" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J75GmWGU1NDbvXC4cunR-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J75GmWGU1NDbvXC4cunR-56" target="J75GmWGU1NDbvXC4cunR-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="640" y="540" />
-              <mxPoint x="510" y="540" />
-              <mxPoint x="510" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="J75GmWGU1NDbvXC4cunR-56" value="HDMI Selecter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="585" width="200" height="60" as="geometry" />
+          <mxGeometry x="560" y="645" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J75GmWGU1NDbvXC4cunR-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="J75GmWGU1NDbvXC4cunR-59" target="J75GmWGU1NDbvXC4cunR-56">
+        <mxCell id="J75GmWGU1NDbvXC4cunR-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="J75GmWGU1NDbvXC4cunR-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="730" as="sourcePoint" />
-            <mxPoint x="620" y="690" as="targetPoint" />
+            <mxPoint x="600" y="644" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J75GmWGU1NDbvXC4cunR-59" value="HDMI Out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="720" width="75" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J75GmWGU1NDbvXC4cunR-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.458;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J75GmWGU1NDbvXC4cunR-61" target="J75GmWGU1NDbvXC4cunR-56">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="685" y="730" as="sourcePoint" />
-            <mxPoint x="630" y="660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J75GmWGU1NDbvXC4cunR-61" value="HDMI Out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="720" width="75" height="60" as="geometry" />
+        <mxCell id="J75GmWGU1NDbvXC4cunR-65" value="DP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
